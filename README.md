@@ -1,4 +1,4 @@
-Animated Problem Solving tutorials for the CS1 courses conducted at Seton Hall University.
+Animated Problem Solving TA recitationss for the CS1 courses conducted at Seton Hall University.
 
 
 Intro to Design Recipe: https://www.youtube.com/watch?v=4qphqt0OMsg
